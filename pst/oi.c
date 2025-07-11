@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdbool.h>
-#include <stdlib.h>
+#include <stdbool.h> // lib para usar o tipo bool
+#include <stdlib.h> // lib para limpar o terminal
 
 // função 1
 // Função para imprimir o tabuleiro
